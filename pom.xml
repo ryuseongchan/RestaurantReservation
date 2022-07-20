@@ -37,6 +37,8 @@
 		<com.oracle.database.jdbc-version>11.2.0.4</com.oracle.database.jdbc-version>
 		<org.aspectj-version>1.9.6</org.aspectj-version>
 		<spring.security.version>5.1.2.RELEASE</spring.security.version>
+		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
 	</properties>
 	<repositories>
 		<repository>
