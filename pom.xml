@@ -21,6 +21,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+    	<defaultGoal>compile</defaultGoal>
 	</build>
   
    <!-- 라이브러리 버전관리 -->
